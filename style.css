@@ -1,0 +1,23 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style: none;
+text-decoration: none;
+}
+
+h1{
+	font-size: calc(1.6vw + 40%);
+}
+h2{
+	font-size: calc(1.1vw + 40%);
+}
+h3{
+	font-size: calc(.77vw + 40%);
+}
+h4{
+	font-size: calc(.6vw + 40%);
+}
+h5{
+	font-size: calc(.43vw + 40%);
+}
