@@ -24,3 +24,10 @@ h5{
 img{
 	width: calc(1vw + 10%);
 }
+
+h6{
+	font-size: calc(14px + (16 - 14) * ((100vw - 320px) / (1600 - 320)));
+}
+h6{
+	padding: calc(20px + (50 - 20) * ((100vw - 320px) / (1600 - 320)));
+}
