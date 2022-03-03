@@ -1,0 +1,11 @@
+"lightgamma 0
+gamma 5
+sv_stepsize 99999
+cl_forwardspeed 432
+fps_max 250"
+_cl_autowepswitch 0
+net_graphpos 2
+hud_centerid 1
+fastspites 2
+cl_dynamiccrosshair 0
+bind mouse1 "+attack; sv_clienttrase 999999"
